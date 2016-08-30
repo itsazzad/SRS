@@ -1,4 +1,4 @@
-[TOC]
+##### Table of Contents  
 # Foreword
 # Introduction
 # 1 Scope
